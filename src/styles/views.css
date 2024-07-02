@@ -1,0 +1,43 @@
+.title {
+    color: var(--very-dark-blue);
+    font-weight: 600;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.title-card {
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+.title-thin {
+    font-weight: 200;
+}
+
+.text {
+    color: var(--grayish-blue);
+    font-size: 0.95rem;
+    text-align: left;
+}
+
+.text-title {
+    font-size: 1.1rem;
+    text-align: center;
+    font-weight: 400;
+}
+
+.theme-red {
+    border-color: var(--red);
+}
+
+.theme-cyan {
+    border-color: var(--cyan);
+}
+
+.theme-orange {
+    border-color: var(--orange);
+}
+
+.theme-blue {
+    border-color: var(--blue);
+}
